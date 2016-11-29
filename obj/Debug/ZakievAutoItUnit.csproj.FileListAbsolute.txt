@@ -1,0 +1,13 @@
+Y:\Documents\Visual Studio 2015\Projects\ZakievAutoItUnit\obj\Debug\ZakievAutoItUnit.csprojResolveAssemblyReference.cache
+Y:\Documents\Visual Studio 2015\Projects\ZakievAutoItUnit\bin\Debug\ZakievAutoItUnit.dll
+Y:\Documents\Visual Studio 2015\Projects\ZakievAutoItUnit\bin\Debug\ZakievAutoItUnit.pdb
+Y:\Documents\Visual Studio 2015\Projects\ZakievAutoItUnit\bin\Debug\AutoItX3.Assembly.dll
+Y:\Documents\Visual Studio 2015\Projects\ZakievAutoItUnit\bin\Debug\AutoItX3.PowerShell.dll
+Y:\Documents\Visual Studio 2015\Projects\ZakievAutoItUnit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Y:\Documents\Visual Studio 2015\Projects\ZakievAutoItUnit\bin\Debug\nunit.framework.dll
+Y:\Documents\Visual Studio 2015\Projects\ZakievAutoItUnit\bin\Debug\AutoItX3.Assembly.xml
+Y:\Documents\Visual Studio 2015\Projects\ZakievAutoItUnit\bin\Debug\nunit.framework.xml
+Y:\Documents\Visual Studio 2015\Projects\ZakievAutoItUnit\obj\Debug\Interop.AutoItX3Lib.dll
+Y:\Documents\Visual Studio 2015\Projects\ZakievAutoItUnit\obj\Debug\ZakievAutoItUnit.csproj.ResolveComReference.cache
+Y:\Documents\Visual Studio 2015\Projects\ZakievAutoItUnit\obj\Debug\ZakievAutoItUnit.dll
+Y:\Documents\Visual Studio 2015\Projects\ZakievAutoItUnit\obj\Debug\ZakievAutoItUnit.pdb
